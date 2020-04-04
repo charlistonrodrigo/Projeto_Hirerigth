@@ -39,7 +39,7 @@ public class HireRight {
        System.out.println(" 6 - Pagamento ");
        System.out.println(" 7 - Usuarios ");
        System.out.println(" 8 - Recomendação ");
-       System.out.println(" 0 - Sair do programa ");
+       System.out.println(" 0 - Sair do programa agora ");
     
        System.out.println("  ");
        opcao = ler.nextInt();
