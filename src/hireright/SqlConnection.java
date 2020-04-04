@@ -36,7 +36,7 @@ public class SqlConnection {
               conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/hireright_bd", "root", "");
                
                  stm = conn.prepareStatement("INSERT INTO convenio(nome,nomeConvenio, telefone, numeroCarteira,id) VALUES (?,?,?,?,?)"); 
-                 System.out.println("Sucesso na coneção com o banco de dados ");
+                 System.out.println("Sucesso na coneção com o banco de dados");
                   
                  stm.setString(1, nome);
                  stm.setString(2, nomeConvenio);
