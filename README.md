@@ -8,3 +8,9 @@ um banco de dados relacional MySQL.
 ## Informações
 
 As demais implementações que constam no menu inicial do aplicativo serão implementadas posteriormente no código fonte deste projeto.
+
+## Layout
+<p align="center">
+  <img width="800" src="">
+  <img width="800" src="">
+</P>
