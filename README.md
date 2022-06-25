@@ -12,5 +12,5 @@ As demais implementações que constam no menu inicial do aplicativo serão impl
 ## Layout
 <p align="center">
   <img width="800" src="HireRigth.png">
-  <img width="800" src="">
+  <img width="800" src="HireRight_SQL.png">
 </P>
