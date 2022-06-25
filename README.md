@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/charlistonrodrigo/Projeto_Hirerigth/blob/add-license-1/LICENCE)
+
 # Projeto_Hirerigth
 
 ## Sobre
